@@ -1,5 +1,9 @@
 [
   {
+    "package": "did2s",
+    "oncran": true
+  },
+  {
     "package": "shiny.tailwind",
     "oncran": true
   }
