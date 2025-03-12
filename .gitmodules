@@ -5,6 +5,9 @@
 [submodule "did2s"]
 	path = did2s
 	url = https://github.com/kylebutts/did2s
+[submodule "fwlplot"]
+	path = fwlplot
+	url = https://github.com/cran/fwlplot
 [submodule "shiny.tailwind"]
 	path = shiny.tailwind
 	url = https://github.com/kylebutts/shiny.tailwind
