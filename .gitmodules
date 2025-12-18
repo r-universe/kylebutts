@@ -5,6 +5,9 @@
 [submodule "did2s"]
 	path = did2s
 	url = https://github.com/kylebutts/did2s
+[submodule "didimputation"]
+	path = didimputation
+	url = https://github.com/kylebutts/didimputation
 [submodule "fwlplot"]
 	path = fwlplot
 	url = https://github.com/cran/fwlplot
